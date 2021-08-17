@@ -1,0 +1,106 @@
+.app-tray{
+    
+    box-shadow: 4px 4px 4px 4px #999;
+    margin: 0 auto;
+    /* padding: 20px; */
+    width: 300px;
+    height: 550px;
+    border-radius: 16px;
+    margin: 20px;
+}
+
+.font-style{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.app-tray img{
+    width: 100%;
+    border-radius: 16px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .3s;
+}
+
+
+
+.app-tray h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 120px;
+    padding-left: 80px;
+    font-size: 30px;
+    text-shadow: 2px 3px 3px #5900b3;
+}
+
+
+
+.btn-div{
+
+    position: absolute;
+    bottom: 50px;
+    margin: 20px;
+    
+}
+
+.code-btn{
+    height: 35px;
+    width: 80px;
+    margin-right: 50px;
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+    box-shadow: 4px 4px 4px 4px #f3e6ff;
+    background-color: #fff;
+}
+
+.app-btn{
+    height: 35px;
+    font-size: 25px;
+    width: 80px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+    box-shadow: 4px 4px 4px 4px #f3e6ff;
+    background-color: #fff;
+}
+
+.code-btn:hover{
+    font-size: 27px;
+    box-shadow: 4px 4px 4px  #cc99ff;
+}
+
+.app-btn:hover{
+    font-size: 27px;
+    box-shadow: 4px 4px 4px  #cc99ff;
+}
+
+.code-btn:active{
+    box-shadow: 2px 2px 2px 2px 	#6900cc;
+    font-size: 20px;
+    animation: anim-shadow .3s forwards;
+}
+
+.app-btn:active{
+    box-shadow: 2px 2px 2px 2px 	#6900cc;
+    font-size: 20px;
+    animation: anim-shadow .3s forwards;
+}
+
+
+
+@keyframes anim-shadow{
+    100% {
+        box-shadow: 4px 4px 20px 4px 	#6900cc;
+    }
+}
+

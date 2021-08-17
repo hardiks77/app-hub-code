@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/app-hub/static/css/main.c4e0d5a8.chunk.css",
+    "main.js": "/app-hub/static/js/main.69ee2791.chunk.js",
+    "main.js.map": "/app-hub/static/js/main.69ee2791.chunk.js.map",
+    "runtime-main.js": "/app-hub/static/js/runtime-main.55d0b454.js",
+    "runtime-main.js.map": "/app-hub/static/js/runtime-main.55d0b454.js.map",
+    "static/js/2.275e1cb0.chunk.js": "/app-hub/static/js/2.275e1cb0.chunk.js",
+    "static/js/2.275e1cb0.chunk.js.map": "/app-hub/static/js/2.275e1cb0.chunk.js.map",
+    "static/js/3.5334b3b0.chunk.js": "/app-hub/static/js/3.5334b3b0.chunk.js",
+    "static/js/3.5334b3b0.chunk.js.map": "/app-hub/static/js/3.5334b3b0.chunk.js.map",
+    "index.html": "/app-hub/index.html",
+    "static/css/main.c4e0d5a8.chunk.css.map": "/app-hub/static/css/main.c4e0d5a8.chunk.css.map",
+    "static/js/2.275e1cb0.chunk.js.LICENSE.txt": "/app-hub/static/js/2.275e1cb0.chunk.js.LICENSE.txt",
+    "static/media/calc4.792e86b2.PNG": "/app-hub/static/media/calc4.792e86b2.PNG",
+    "static/media/tic1.72474259.PNG": "/app-hub/static/media/tic1.72474259.PNG",
+    "static/media/todo3.2f64d976.PNG": "/app-hub/static/media/todo3.2f64d976.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55d0b454.js",
+    "static/js/2.275e1cb0.chunk.js",
+    "static/css/main.c4e0d5a8.chunk.css",
+    "static/js/main.69ee2791.chunk.js"
+  ]
+}
